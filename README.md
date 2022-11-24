@@ -11,11 +11,11 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atoonsmurf&theme=dark&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atoonsmurf&theme=dark&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atoonsmurf&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoonsmurf&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
