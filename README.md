@@ -1,7 +1,7 @@
 
-<div id="header" text-align="center">
-    <h1> align="center">Hi 👋, I'm Sebastián Sandoval</h1>
-    <h3>align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
+<div id="header" align="center">
+    <h1 align="center">Hi 👋, I'm Sebastián Sandoval</h1>
+    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
         Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
         YouDevs.</h3>
 </div>
@@ -11,11 +11,12 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atoonsmurf&theme=dark&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
