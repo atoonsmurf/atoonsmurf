@@ -1,12 +1,10 @@
 
-<div id="header" align="center">
-   
-    <h1 align="center">Hi 👋, I'm Sebastián Sandoval</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
+<div id="header" text-align="center">
+    <h1> align="center">Hi 👋, I'm Sebastián Sandoval</h1>
+    <h3>align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
         Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
         YouDevs.</h3>
 </div>
-
 
 ---
 
@@ -22,8 +20,6 @@
 ---
 
 ### 👨‍💻 About Me :
-
-
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
