@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Sebastián Sandoval</h1>
-    <h3 align="center">A passionate web fullstack developer from Perú.</h3>
+   
 </div>
 
 
@@ -9,7 +9,8 @@
 
 
 ### 👨‍💻 About Me :
-
+ <h3 >A passionate web fullstack developer from Perú.</h3>
+ 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
